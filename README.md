@@ -7,7 +7,7 @@ Python, Small Basic, Javascript, HTML, and CSS
 
 ## How can I contact you?
 
- - Email: unsuspectingpersons(at)protonmail(dot)com
+ - Email: suspctng(at)pm(dot)me
  - May take 3-5 business days depending on whether I have time to check my email
  
  ![](https://raw.githubusercontent.com/suspecting/suspecting/main/Untitled.png)
