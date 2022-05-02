@@ -3,11 +3,10 @@ Some Chicagoan who likes banging his head against his laptop keys and making gim
 
 ## What do you use?
 
-Python, Small Basic, Javascript, HTML, and CSS
+Python, Small Basic, Javascript, HTML, and CSS.
 
 ## How can I contact you?
 
- - Email: suspctng(at)pm(dot)me
- - May take 3-5 business days depending on whether I have time to check my email
- 
+ - Email: s(at)suspecting(dot)cf
+ - May take like 1-2 days to respond
  ![](https://raw.githubusercontent.com/suspecting/suspecting/main/Untitled.png)
