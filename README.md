@@ -7,7 +7,7 @@ Python, Small Basic, Javascript, HTML, and CSS.
 
 ## How can I contact you?
 
- - Email: s(at)suspecting(dot)cf
+ - Email: suspctng{at}pm{dot}me
  - May take like 1-2 days to respond
 
 
