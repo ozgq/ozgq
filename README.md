@@ -1,9 +1,9 @@
 # Who are you?
-Some Chicagoan who likes banging his head against his laptop keys and making gimmick projects
+Some guy who likes banging his head against his laptop keys and making gimmick projects.
 
 ## What do you use?
 
-Python, Small Basic, Javascript, HTML, and CSS.
+Python/Flask, JavaScript, HTML/CSS, SQL(ite), and learning C#.
 
 ## How can I contact you?
 
