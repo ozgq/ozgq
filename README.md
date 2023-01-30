@@ -3,7 +3,7 @@ Some guy who likes banging his head against his laptop keys and making gimmick p
 
 ## What do you use?
 
-Python/Flask, JavaScript, HTML/CSS, SQL(ite), SOMETIMES Small/Just Basic and learning ~~C++~~ Go.
+Python/Flask, JavaScript, HTML/CSS, SQL(ite), SOMETIMES Small/Just/FreeBASIC and learning ~~C++~~ Go.
 
 ## How can I contact you?
 
