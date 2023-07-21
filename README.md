@@ -4,17 +4,19 @@ Some guy who likes banging his head against his laptop keys and making gimmick p
 ## What do you use?
 
 PROGRAMMING: 
+
 **GOOD AT:**
 - Python/Flask
 - HTML/CSS/JS
 - Lua
+  
 **ATTEMPTING TO LEARN:**
 - Pure Data
 - Go
 - Node.js
 - ~~rust maybe~~
 
-MUSIC: FL Studio 20.7.2 and LMMS (Pure Data would fit here as well right?)
+MUSIC: FL Studio 20.7.2 and LMMS
 
 ## How can I contact you?
 
