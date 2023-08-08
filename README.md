@@ -3,8 +3,8 @@
 - 👎🏿 **NOVICE AT:** Ruby, Pure Data, Django, Node.js
 - **PLANNING TO LEARN:** Go, SvelteKit, ~~rust maybe~~
 
- - 📧 **MAIL ME:** suspctng{at}pm{dot}me
+- 📧 **MAIL ME:** suspctng{at}pm{dot}me
      (I somewhat switch email services while I'm saving to get my own servers. This one is a mainstay for now.)
- - May take ~1-2 days to respond
+- May take ~1-2 days to respond
 
  ![](https://raw.githubusercontent.com/suspecting/suspecting/main/github.png)
