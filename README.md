@@ -4,4 +4,4 @@
 - NOVICE AT: Ruby, Pure Data, Django, Node.js, Rust
 - PLANNING TO LEARN: Go, SvelteKit
 - Mail me: suspecting (at) pm (dot) me
-- It may take me 1-2 days to get ahold of you. Also I change email services somewhat as I'm trying to find a stable one but I'll usually keep it posted.
+- Tox me (if you're into that, I guess): 19904182A04DC3233C52E3B3BBDD01C629328843267547428A1CB550C26CF733BBA0CBF3E480
