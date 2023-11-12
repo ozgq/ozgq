@@ -1,4 +1,4 @@
-**suspecting**
+**@repeat**
 - Some guy who likes banging his head against his laptop keys and making gimmick projects.
 - GOOD AT: Python(+Flask), HTML/CSS/JS, Luau/rLua
 - NOVICE AT: Ruby, Pure Data, Django, Node.js, Rust
