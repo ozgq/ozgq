@@ -1,2 +1,2 @@
 # Hello
-I don't really use github
+I don't really use GitHub much. 
