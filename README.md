@@ -6,5 +6,6 @@ I don't really use GitHub much. I'm proficient in/still learning:
 * Backend of varying speed (Python, Node.js, attempting Rust)
 
 Talk to me:
-* suspecting[at]pm[dot]me
-* I'm setting up Tox soon
+* [suspecting(at)pm(dot)me](mailto:suspctng@pm.me)
+* [(at)wzrd(at)wetdry(dot)world](https://wetdry.world/@wzrd)
+* ~~I'm setting up Tox soon~~ No
